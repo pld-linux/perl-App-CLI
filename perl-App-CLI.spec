@@ -21,8 +21,8 @@ BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 %if %{with tests}
 BuildRequires:	perl(Getopt::Long) >= 2.35
-BuildRequires:	perl(Locale::Maketext::Simple)
 BuildRequires:	perl(Pod::Simple::Text)
+BuildRequires:	perl-Locale-Maketext-Simple
 %endif
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
