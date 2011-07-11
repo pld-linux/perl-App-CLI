@@ -8,13 +8,13 @@
 Summary:	App::CLI - Dispatcher module for command line interface programs
 Summary(pl.UTF-8):	App:CLI - Moduł obsługi programów z interfejsem CLI
 Name:		perl-App-CLI
-Version:	0.07
-Release:	2
+Version:	0.09
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-authors/id/C/CL/CLKAO/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	8981b0628874bb7e83b00b00e58a7259
+# Source0-md5:	efa1b227460477c2141c691fa7824170
 URL:		http://search.cpan.org/dist/App-CLI/
 BuildRequires:	perl-Locale-Maketext-Simple
 BuildRequires:	perl-devel >= 1:5.8.0
