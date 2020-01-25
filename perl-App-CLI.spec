@@ -4,7 +4,6 @@
 
 %define		pdir	App
 %define		pnam	CLI
-%include	/usr/lib/rpm/macros.perl
 Summary:	App::CLI - Dispatcher module for command line interface programs
 Summary(pl.UTF-8):	App:CLI - Moduł obsługi programów z interfejsem CLI
 Name:		perl-App-CLI
