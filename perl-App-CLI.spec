@@ -8,7 +8,7 @@ Summary:	App::CLI - Dispatcher module for command line interface programs
 Summary(pl.UTF-8):	App:CLI - Moduł obsługi programów z interfejsem CLI
 Name:		perl-App-CLI
 Version:	0.09
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
